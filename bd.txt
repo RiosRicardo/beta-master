@@ -1,5 +1,30 @@
 tabla admin
-id (lo crea el scaffold)
-nombre
-username
-password
+	id (lo crea el scaffold)
+	nombre
+	username
+	password
+
+
+tabla usuario
+	id (lo crea el scaffold)
+	rut
+	nombre
+	apellidos
+	email
+	username
+	password
+
+
+tabla directorio
+	id (lo crea el scaffold)
+	usuario_id
+	nombre
+	descripcion
+	telefono
+	celular
+	direccion
+	comuna
+	ciudad
+	region
+	categoria
+	subcategoria
