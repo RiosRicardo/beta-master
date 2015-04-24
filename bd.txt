@@ -1,0 +1,5 @@
+tabla admin
+id (lo crea el scaffold)
+nombre
+username
+password
