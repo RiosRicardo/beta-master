@@ -28,3 +28,10 @@ tabla directorio
 	region
 	categoria
 	subcategoria
+
+
+tabla link
+	id (lo crea el scaffold)
+	directorio_id
+	tipo
+	url
